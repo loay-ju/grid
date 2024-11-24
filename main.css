@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.carousel.slide img {
+  height: 80vh;
+}
+@media (max-width: 767px) {
+  .card {
+    width: 100%;
+  }
+}
